@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a software engineering student at Concordia University with a passion for 💻 software development, 🤖 technology, and 🔒 cybersecurity. I have experience as a full-stack software developer and I am always eager to learn about new things 🤓. In my free time, I enjoy staying up to date on the latest trends in the tech industry 💥 and exploring new technologies 🤖. I am always looking for opportunities to grow and develop my skills as a software engineer 🚀.
+
+
 <!--
 **KrisTheCanadian/KrisTheCanadian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
