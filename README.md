@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- I'm a software engineering student at Concordia University 🎓
 - I'm passionate about software development 💻, technology 🤖, and cybersecurity 🔒
 - I have experience as a full-stack software developer 💻🤖
 - I love to learn about new things 🤓 and stay up to date on the latest trends in the tech industry 💥
